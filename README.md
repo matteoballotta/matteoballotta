@@ -56,4 +56,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </span>
   </p>
+
+  <h3>Stats:</h3>
+  <img height="177" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteoballotta&layout=compact&theme=react" />
+  </p>
+
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
