@@ -1,0 +1,10 @@
+A1  - Empty
+A2  - Empty
+A3  - Empty
+A4  - LAO
+A5  - Ubuntu 22.04 LTS
+A6  - Empty
+A7  - Empty
+A8  - Windows 10 21H1
+A9  - Windows 7 for newer CPU
+A10 - Archive (do not delete)
