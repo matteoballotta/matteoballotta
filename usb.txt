@@ -2,8 +2,8 @@ A1  - Empty
 A2  - Empty
 A3  - Empty
 A4  - LAO
-A5  - Ubuntu 22.04 LTS
-A6  - Empty
+A5  - Empty
+A6  - Ubuntu 22.04 LTS
 A7  - Empty
 A8  - Windows 10 Latest
 A9  - Windows 7 for newer CPU
