@@ -61,6 +61,4 @@
   <img height="177" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteoballotta&layout=compact&theme=react" />
   </p>
-
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
