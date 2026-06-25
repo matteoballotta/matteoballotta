@@ -7,6 +7,17 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "agent": {
+    "button": true,
+    "favorite_models": [],
+    "model_parameters": []
+  },
+  "outline_panel": {
+    "default_width": 340.0
+  },
+  "collaboration_panel": {
+    "default_width": 340.0
+  },
   "proxy": "",
   "disable_ai": true,
   "git": {
@@ -18,6 +29,7 @@
     }
   },
   "git_panel": {
+    "default_width": 340.0,
     "show_count_badge": false,
     "file_icons": false,
     "tree_view": false,
@@ -33,6 +45,7 @@
     "show_count_badge": false
   },
   "project_panel": {
+    "default_width": 340.0,
     "git_status_indicator": true,
     "diagnostic_badges": false,
     "bold_folder_labels": false
